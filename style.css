@@ -1,0 +1,40 @@
+body {
+    background-color: snow;
+}
+
+h1{
+   color: white;
+   text-align: center;
+}
+
+.inputframe {
+    width:500px;
+    height:600px;
+    margin: 20px auto;
+   
+}
+
+.title-note{
+text-align:center;
+border-radius: 15px;
+background-color:black;
+border-color:steelblue ;
+font-family:'Courier New', Courier, monospace;
+margin:auto;
+width: 500px;
+height:500px ;
+}
+
+.div-textarea{
+  
+    width: 500px;
+    height: 40px;
+   
+}
+
+.textarea{
+    width: 492px;
+    height: 440px;   
+    margin-top: -20px;  
+    background-color:lavenderblush;
+}
